@@ -25,6 +25,7 @@ import {
   FeatureFlag,
   getLabelsColorMap,
   SupersetClient,
+  getClientErrorObject,
   getErrorText,
   getCategoricalSchemeRegistry,
   promiseTimeout,
