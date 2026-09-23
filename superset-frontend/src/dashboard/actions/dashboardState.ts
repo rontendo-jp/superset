@@ -27,6 +27,7 @@ import {
   SupersetClient,
   getClientErrorObject,
   getErrorText,
+  getClientErrorObject,
   getCategoricalSchemeRegistry,
   promiseTimeout,
   JsonObject,
