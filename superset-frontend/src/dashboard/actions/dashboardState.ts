@@ -25,7 +25,6 @@ import {
   FeatureFlag,
   getLabelsColorMap,
   SupersetClient,
-  getClientErrorObject,
   getErrorText,
   getClientErrorObject,
   getCategoricalSchemeRegistry,
